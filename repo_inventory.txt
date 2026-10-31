@@ -1,0 +1,85 @@
+GeeksforGeeks/Java/Medium/Tower Of Hanoi/Solution.java
+GeeksforGeeks/Patterns/Recursion/Tower Of Hanoi/Solution.java
+LeetCode/Java/Easy/28. Find the Index of the First Occurrence in a String/Solution.java
+LeetCode/Java/Medium/11. Container With Most Water/Solution.java
+LeetCode/Java/Medium/707. Design Linked List/Solution.java
+LeetCode/Java/Medium/838. Design Linked List/Solution.java
+LeetCode/Patterns/Linked List/707. Design Linked List/Solution.java
+LeetCode/Patterns/Linked List/838. Design Linked List/Solution.java
+LeetCode/Patterns/Two Pointers/11. Container With Most Water/Solution.java
+LeetCode/Patterns/Two Pointers/28. Find the Index of the First Occurrence in a String/Solution.java
+solutions/a-number-after-a-double-reversal/a-number-after-a-double-reversal.java
+solutions/add-binary/add-binary.java
+solutions/add-strings/add-strings.java
+solutions/advantage-shuffle/advantage-shuffle.java
+solutions/assign-cookies/assign-cookies.java
+solutions/base-7/base-7.java
+solutions/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java
+solutions/binary-tree-inorder-traversal/binary-tree-inorder-traversal.java
+solutions/capitalize-the-title/capitalize-the-title.java
+solutions/climbing-stairs/climbing-stairs.java
+solutions/concatenation-of-array/concatenation-of-array.java
+solutions/container-with-most-water/container-with-most-water.java
+solutions/contains-duplicate-ii/contains-duplicate-ii.java
+solutions/contains-duplicate/contains-duplicate.java
+solutions/convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.java
+solutions/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java
+solutions/count-primes/count-primes.java
+solutions/count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.java
+solutions/defanging-an-ip-address/defanging-an-ip-address.java
+solutions/defuse-the-bomb/defuse-the-bomb.java
+solutions/detect-capital/detect-capital.java
+solutions/find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java
+solutions/find-pivot-index/find-pivot-index.java
+solutions/find-right-interval/find-right-interval.java
+solutions/find-the-difference/find-the-difference.java
+solutions/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java
+solutions/height-checker/height-checker.java
+solutions/is-subsequence/is-subsequence.java
+solutions/keyboard-row/keyboard-row.java
+solutions/length-of-last-word/length-of-last-word.java
+solutions/longest-common-prefix/longest-common-prefix.java
+solutions/majority-element/majority-element.java
+solutions/make-two-arrays-equal-by-reversing-subarrays/make-two-arrays-equal-by-reversing-subarrays.java
+solutions/maximum-average-subarray-i/maximum-average-subarray-i.java
+solutions/maximum-gap/maximum-gap.java
+solutions/maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.java
+solutions/maximum-product-of-three-numbers/maximum-product-of-three-numbers.java
+solutions/merge-sorted-array/merge-sorted-array.java
+solutions/merge-two-sorted-lists/merge-two-sorted-lists.java
+solutions/missing-number/missing-number.java
+solutions/move-zeroes/move-zeroes.java
+solutions/number-of-1-bits/number-of-1-bits.java
+solutions/number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java
+solutions/palindrome-number/palindrome-number.java
+solutions/pascals-triangle/pascals-triangle.java
+solutions/plus-one/plus-one.java
+solutions/range-sum-of-sorted-subarray-sums/range-sum-of-sorted-subarray-sums.java
+solutions/range-sum-query-immutable/range-sum-query-immutable.java
+solutions/relative-ranks/relative-ranks.java
+solutions/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java
+solutions/remove-element/remove-element.java
+solutions/reshape-the-matrix/reshape-the-matrix.java
+solutions/reverse-integer/reverse-integer.java
+solutions/reverse-linked-list/reverse-linked-list.java
+solutions/reverse-string-ii/reverse-string-ii.java
+solutions/reverse-string/reverse-string.java
+solutions/reverse-vowels-of-a-string/reverse-vowels-of-a-string.java
+solutions/reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java
+solutions/reverse-words-in-a-string/reverse-words-in-a-string.java
+solutions/richest-customer-wealth/richest-customer-wealth.java
+solutions/roman-to-integer/roman-to-integer.java
+solutions/rotate-array/rotate-array.java
+solutions/running-sum-of-1d-array/running-sum-of-1d-array.java
+solutions/single-number/single-number.java
+solutions/string-compression/string-compression.java
+solutions/subarray-sum-equals-k/subarray-sum-equals-k.java
+solutions/sum-of-unique-elements/sum-of-unique-elements.java
+solutions/summary-ranges/summary-ranges.java
+solutions/to-lower-case/to-lower-case.java
+solutions/triangle/triangle.java
+solutions/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java
+solutions/two-sum/two-sum.java
+solutions/valid-palindrome/valid-palindrome.java
+solutions/valid-parentheses/valid-parentheses.java
+solutions/word-pattern/word-pattern.java
