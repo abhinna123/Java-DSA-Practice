@@ -1,0 +1,2 @@
+GeeksforGeeks/Java/Medium/Tower Of Hanoi/Solution.java
+GeeksforGeeks/Patterns/Recursion/Tower Of Hanoi/Solution.java
