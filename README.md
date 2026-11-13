@@ -1,32 +1,50 @@
 # Java DSA Practice
 
-A personal collection of Java solutions from LeetCode and GeeksforGeeks. Solutions are grouped by platform and topic, and each solved problem has one canonical source file and one README in a shared format.
+A structured personal collection of Java solutions for Data Structures and Algorithms problems from **LeetCode** and **GeeksforGeeks**.
 
-## Repository layout
+Solutions are organized by platform and topic. Each problem includes a canonical Java solution (`Solution.java`) along with a problem summary (`README.md`).
+
+---
+
+## Repository Structure
 
 ```text
 Java-DSA-Practice/
 ├── LeetCode/
-│   ├── Java/<topic>/<problem>/Solution.java
-│   ├── Java/<topic>/<problem>/README.md
-│   └── trackers/
+│   ├── README.md
+│   └── Java/
+│       ├── arrays/
+│       ├── binary-search/
+│       ├── dynamic-programming/
+│       ├── hashing/
+│       ├── linked-list/
+│       ├── math/
+│       ├── prefix-sum/
+│       ├── sliding-window/
+│       ├── sorting/
+│       ├── stack/
+│       ├── strings/
+│       ├── trees/
+│       └── two-pointers/
 ├── GeeksforGeeks/
-│   ├── Java/<topic>/<problem>/Solution.java
-│   └── trackers/
+│   ├── README.md
+│   └── Java/
+│       └── recursion/
+├── CATALOG.md
 ├── PROBLEM_TEMPLATE.md
 └── README.md
 ```
 
-## Branches
+---
 
-- `leetcode` contains the LeetCode problems and their trackers.
-- `gfg` contains the GeeksforGeeks problems and progress list.
-- `main` is the shared starting point for both platform branches.
+## Solved Problems Catalog
 
-## Progress labels
+See [CATALOG.md](./CATALOG.md) for a complete table of all solved problems, their topics, difficulties, and links.
 
-A checked tracker item means the repository contains a solution file. An unchecked item means no solution is present in this repository. This label tracks repository contents and does not imply an online judge verdict.
+---
 
-## Adding a solution
+## Adding a New Solution
 
-Create a problem folder under the right platform and topic, add `Solution.java`, and copy the structure from [`PROBLEM_TEMPLATE.md`](./PROBLEM_TEMPLATE.md). Update the relevant tracker with a link only after the solution file is added.
+1. Create a problem directory under the appropriate platform and topic (e.g., `LeetCode/Java/arrays/<problem-name>/`).
+2. Add your Java solution in `Solution.java`.
+3. Add problem details and description in `README.md` using the format in [`PROBLEM_TEMPLATE.md`](./PROBLEM_TEMPLATE.md).

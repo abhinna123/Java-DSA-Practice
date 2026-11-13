@@ -1,6 +1,6 @@
 # LeetCode — Java Solutions
 
-This branch folder contains 79 canonical Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
+This folder contains 79 canonical Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
 
 ## Solved problems
 
@@ -86,6 +86,4 @@ This branch folder contains 79 canonical Java solution(s). Each problem has the 
 | [Two Sum II - Input Array Is Sorted](./Java/two-pointers/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers |
 | [Valid Palindrome](./Java/two-pointers/valid-palindrome/) | Easy | Two Pointers |
 
-## Unsolved problems
 
-See [`trackers/`](./trackers/) for curated lists. A checked item means a Java solution exists in this repository; an unchecked item has no committed solution here yet.

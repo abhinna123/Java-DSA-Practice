@@ -20,4 +20,4 @@ See [`Solution.java`](./Solution.java). The code uses the platform’s Java subm
 
 ## Notes
 
-This repository keeps one canonical solution per problem. If the problem appears in more than one study sheet, the tracker links to this file.
+This repository keeps one canonical solution per problem.
