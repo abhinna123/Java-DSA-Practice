@@ -241,6 +241,16 @@
   },
   {
     "platform": "LeetCode",
+    "title": "Check If N and Its Double Exist",
+    "slug": "check-if-n-and-its-double-exist",
+    "id": 1346,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/check-if-n-and-its-double-exist",
+    "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/"
+  },
+  {
+    "platform": "LeetCode",
     "title": "Climbing Stairs",
     "slug": "climbing-stairs",
     "id": null,
@@ -381,6 +391,16 @@
   },
   {
     "platform": "LeetCode",
+    "title": "Find All Numbers Disappeared in an Array",
+    "slug": "find-all-numbers-disappeared-in-an-array",
+    "id": 448,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/find-all-numbers-disappeared-in-an-array",
+    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/"
+  },
+  {
+    "platform": "LeetCode",
     "title": "Find Numbers with Even Number of Digits",
     "slug": "find-numbers-with-even-number-of-digits",
     "id": "1295",
@@ -418,6 +438,26 @@
     "topic": "strings",
     "path": "LeetCode/Java/strings/find-the-difference",
     "url": "https://leetcode.com/problems/find-the-difference/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Distance Value Between Two Arrays",
+    "slug": "find-the-distance-value-between-two-arrays",
+    "id": 1385,
+    "difficulty": "Easy",
+    "topic": "binary-search",
+    "path": "LeetCode/Java/binary-search/find-the-distance-value-between-two-arrays",
+    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "id": 287,
+    "difficulty": "Medium",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/find-the-duplicate-number",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/"
   },
   {
     "platform": "LeetCode",
@@ -601,6 +641,16 @@
   },
   {
     "platform": "LeetCode",
+    "title": "Number of Good Pairs",
+    "slug": "number-of-good-pairs",
+    "id": 1512,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/number-of-good-pairs",
+    "url": "https://leetcode.com/problems/number-of-good-pairs/"
+  },
+  {
+    "platform": "LeetCode",
     "title": "Number of Steps to Reduce a Number to Zero",
     "slug": "number-of-steps-to-reduce-a-number-to-zero",
     "id": null,
@@ -678,6 +728,16 @@
     "topic": "two-pointers",
     "path": "LeetCode/Java/two-pointers/remove-duplicates-from-sorted-array",
     "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "id": 83,
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/remove-duplicates-from-sorted-list",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/"
   },
   {
     "platform": "LeetCode",
