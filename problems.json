@@ -1,0 +1,802 @@
+[
+  {
+    "platform": "GeeksforGeeks",
+    "title": "Tower of Hanoi",
+    "slug": "tower-of-hanoi",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "recursion",
+    "path": "GeeksforGeeks/Java/recursion/tower-of-hanoi",
+    "url": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/best-time-to-buy-and-sell-stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/concatenation-of-array",
+    "url": "https://leetcode.com/problems/concatenation-of-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Numbers with Even Number of Digits",
+    "slug": "find-numbers-with-even-number-of-digits",
+    "id": "1295",
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/1295-find-numbers-with-even-number-of-digits",
+    "url": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Pivot Index",
+    "slug": "find-pivot-index",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/find-pivot-index",
+    "url": "https://leetcode.com/problems/find-pivot-index/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Keyboard Row",
+    "slug": "keyboard-row",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/keyboard-row",
+    "url": "https://leetcode.com/problems/keyboard-row/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/majority-element",
+    "url": "https://leetcode.com/problems/majority-element/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Make Two Arrays Equal by Reversing Subarrays",
+    "slug": "make-two-arrays-equal-by-reversing-subarrays",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/make-two-arrays-equal-by-reversing-subarrays",
+    "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/missing-number",
+    "url": "https://leetcode.com/problems/missing-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Pascal's Triangle",
+    "slug": "pascals-triangle",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/pascals-triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Plus One",
+    "slug": "plus-one",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/plus-one",
+    "url": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reshape the Matrix",
+    "slug": "reshape-the-matrix",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/reshape-the-matrix",
+    "url": "https://leetcode.com/problems/reshape-the-matrix/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Richest Customer Wealth",
+    "slug": "richest-customer-wealth",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/richest-customer-wealth",
+    "url": "https://leetcode.com/problems/richest-customer-wealth/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/rotate-array",
+    "url": "https://leetcode.com/problems/rotate-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Summary Ranges",
+    "slug": "summary-ranges",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "arrays",
+    "path": "LeetCode/Java/arrays/summary-ranges",
+    "url": "https://leetcode.com/problems/summary-ranges/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Right Interval",
+    "slug": "find-right-interval",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "binary-search",
+    "path": "LeetCode/Java/binary-search/find-right-interval",
+    "url": "https://leetcode.com/problems/find-right-interval/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "id": "35",
+    "difficulty": "Easy",
+    "topic": "binary-search",
+    "path": "LeetCode/Java/binary-search/35-search-insert-position",
+    "url": "https://leetcode.com/problems/search-insert-position/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Number of 1 Bits",
+    "slug": "number-of-1-bits",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "bit-manipulation",
+    "path": "LeetCode/Java/bit-manipulation/number-of-1-bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "slug": "number-of-steps-to-reduce-a-number-to-zero",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "bit-manipulation",
+    "path": "LeetCode/Java/bit-manipulation/number-of-steps-to-reduce-a-number-to-zero",
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Single Number",
+    "slug": "single-number",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "bit-manipulation",
+    "path": "LeetCode/Java/bit-manipulation/single-number",
+    "url": "https://leetcode.com/problems/single-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "dynamic-programming",
+    "path": "LeetCode/Java/dynamic-programming/climbing-stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Triangle",
+    "slug": "triangle",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "dynamic-programming",
+    "path": "LeetCode/Java/dynamic-programming/triangle",
+    "url": "https://leetcode.com/problems/triangle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Assign Cookies",
+    "slug": "assign-cookies",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "greedy",
+    "path": "LeetCode/Java/greedy/assign-cookies",
+    "url": "https://leetcode.com/problems/assign-cookies/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "hashing",
+    "path": "LeetCode/Java/hashing/contains-duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Contains Duplicate II",
+    "slug": "contains-duplicate-ii",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "hashing",
+    "path": "LeetCode/Java/hashing/contains-duplicate-ii",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sum of Unique Elements",
+    "slug": "sum-of-unique-elements",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "hashing",
+    "path": "LeetCode/Java/hashing/sum-of-unique-elements",
+    "url": "https://leetcode.com/problems/sum-of-unique-elements/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "hashing",
+    "path": "LeetCode/Java/hashing/two-sum",
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Pattern",
+    "slug": "word-pattern",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "hashing",
+    "path": "LeetCode/Java/hashing/word-pattern",
+    "url": "https://leetcode.com/problems/word-pattern/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Delete Node in a Linked List",
+    "slug": "delete-node-in-a-linked-list",
+    "id": "237",
+    "difficulty": "Medium",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/237-delete-node-in-a-linked-list",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Design Linked List",
+    "slug": "design-linked-list",
+    "id": "707",
+    "difficulty": "Medium",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/707-design-linked-list",
+    "url": "https://leetcode.com/problems/design-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/merge-two-sorted-lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "id": "876",
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/876-middle-of-the-linked-list",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "LeetCode/Java/linked-list/reverse-linked-list",
+    "url": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "A Number After a Double Reversal",
+    "slug": "a-number-after-a-double-reversal",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "math",
+    "path": "LeetCode/Java/math/a-number-after-a-double-reversal",
+    "url": "https://leetcode.com/problems/a-number-after-a-double-reversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Base 7",
+    "slug": "base-7",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "math",
+    "path": "LeetCode/Java/math/base-7",
+    "url": "https://leetcode.com/problems/base-7/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Convert a Number to Hexadecimal",
+    "slug": "convert-a-number-to-hexadecimal",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "math",
+    "path": "LeetCode/Java/math/convert-a-number-to-hexadecimal",
+    "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count Primes",
+    "slug": "count-primes",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "math",
+    "path": "LeetCode/Java/math/count-primes",
+    "url": "https://leetcode.com/problems/count-primes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count the Digits That Divide a Number",
+    "slug": "count-the-digits-that-divide-a-number",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "math",
+    "path": "LeetCode/Java/math/count-the-digits-that-divide-a-number",
+    "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "math",
+    "path": "LeetCode/Java/math/palindrome-number",
+    "url": "https://leetcode.com/problems/palindrome-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Integer",
+    "slug": "reverse-integer",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "math",
+    "path": "LeetCode/Java/math/reverse-integer",
+    "url": "https://leetcode.com/problems/reverse-integer/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "prefix-sum",
+    "path": "LeetCode/Java/prefix-sum/range-sum-query-immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Running Sum of 1d Array",
+    "slug": "running-sum-of-1d-array",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "prefix-sum",
+    "path": "LeetCode/Java/prefix-sum/running-sum-of-1d-array",
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "prefix-sum",
+    "path": "LeetCode/Java/prefix-sum/subarray-sum-equals-k",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Defuse the Bomb",
+    "slug": "defuse-the-bomb",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "sliding-window",
+    "path": "LeetCode/Java/sliding-window/defuse-the-bomb",
+    "url": "https://leetcode.com/problems/defuse-the-bomb/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "sliding-window",
+    "path": "LeetCode/Java/sliding-window/maximum-average-subarray-i",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "sliding-window",
+    "path": "LeetCode/Java/sliding-window/maximum-number-of-vowels-in-a-substring-of-given-length",
+    "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Advantage Shuffle",
+    "slug": "advantage-shuffle",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/advantage-shuffle",
+    "url": "https://leetcode.com/problems/advantage-shuffle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Height Checker",
+    "slug": "height-checker",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/height-checker",
+    "url": "https://leetcode.com/problems/height-checker/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Gap",
+    "slug": "maximum-gap",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/maximum-gap",
+    "url": "https://leetcode.com/problems/maximum-gap/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Product of Three Numbers",
+    "slug": "maximum-product-of-three-numbers",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/maximum-product-of-three-numbers",
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Range Sum of Sorted Subarray Sums",
+    "slug": "range-sum-of-sorted-subarray-sums",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/range-sum-of-sorted-subarray-sums",
+    "url": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Relative Ranks",
+    "slug": "relative-ranks",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "sorting",
+    "path": "LeetCode/Java/sorting/relative-ranks",
+    "url": "https://leetcode.com/problems/relative-ranks/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "stack",
+    "path": "LeetCode/Java/stack/valid-parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/add-binary",
+    "url": "https://leetcode.com/problems/add-binary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Add Strings",
+    "slug": "add-strings",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/add-strings",
+    "url": "https://leetcode.com/problems/add-strings/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Capitalize the Title",
+    "slug": "capitalize-the-title",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/capitalize-the-title",
+    "url": "https://leetcode.com/problems/capitalize-the-title/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Defanging an IP Address",
+    "slug": "defanging-an-ip-address",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/defanging-an-ip-address",
+    "url": "https://leetcode.com/problems/defanging-an-ip-address/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Detect Capital",
+    "slug": "detect-capital",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/detect-capital",
+    "url": "https://leetcode.com/problems/detect-capital/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Difference",
+    "slug": "find-the-difference",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/find-the-difference",
+    "url": "https://leetcode.com/problems/find-the-difference/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Index of the First Occurrence in a String",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "id": "28",
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/28-find-the-index-of-the-first-occurrence-in-a-string",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Length of Last Word",
+    "slug": "length-of-last-word",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/length-of-last-word",
+    "url": "https://leetcode.com/problems/length-of-last-word/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/longest-common-prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse String II",
+    "slug": "reverse-string-ii",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/reverse-string-ii",
+    "url": "https://leetcode.com/problems/reverse-string-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Words in a String",
+    "slug": "reverse-words-in-a-string",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/reverse-words-in-a-string",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Words in a String III",
+    "slug": "reverse-words-in-a-string-iii",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/reverse-words-in-a-string-iii",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/roman-to-integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "To Lower Case",
+    "slug": "to-lower-case",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "strings",
+    "path": "LeetCode/Java/strings/to-lower-case",
+    "url": "https://leetcode.com/problems/to-lower-case/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "trees",
+    "path": "LeetCode/Java/trees/binary-tree-inorder-traversal",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "trees",
+    "path": "LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "id": "11",
+    "difficulty": "Medium",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/11-container-with-most-water",
+    "url": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/is-subsequence",
+    "url": "https://leetcode.com/problems/is-subsequence/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/merge-sorted-array",
+    "url": "https://leetcode.com/problems/merge-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/move-zeroes",
+    "url": "https://leetcode.com/problems/move-zeroes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/remove-duplicates-from-sorted-array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/remove-element",
+    "url": "https://leetcode.com/problems/remove-element/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/reverse-string",
+    "url": "https://leetcode.com/problems/reverse-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Vowels of a String",
+    "slug": "reverse-vowels-of-a-string",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/reverse-vowels-of-a-string",
+    "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "String Compression",
+    "slug": "string-compression",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/string-compression",
+    "url": "https://leetcode.com/problems/string-compression/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "id": null,
+    "difficulty": "Medium",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/two-sum-ii-input-array-is-sorted",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "two-pointers",
+    "path": "LeetCode/Java/two-pointers/valid-palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/"
+  }
+]

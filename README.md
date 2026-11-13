@@ -1,33 +1,32 @@
 # Java DSA Practice
 
-A structured collection of my Data Structures and Algorithms solutions
-written in Java, covering coding problems from LeetCode and GeeksforGeeks.
+A personal collection of Java solutions from LeetCode and GeeksforGeeks. Solutions are grouped by platform and topic, and each solved problem has one canonical source file and one README in a shared format.
 
-I'm using this repository to document my problem-solving journey,
-strengthen my understanding of DSA, and prepare for software engineering
-internships and technical interviews.
-
----
-
-## About This Repository
-
-- **Language:** Java
-- **Platforms:** LeetCode, GeeksforGeeks
-- **Focus:** Data Structures, Algorithms, Problem Solving
-- **Goal:** Build strong DSA fundamentals and improve problem-solving skills
-
----
-
-## Repository Structure
+## Repository layout
 
 ```text
 Java-DSA-Practice/
 ├── LeetCode/
-│   ├── Java/
-│   │   └── Easy/
-│   │       └── 28. Find the Index of the First Occurrence in a String/
-│   │           └── README.md
-│   └── Patterns/
-│       └── Two Pointers/
+│   ├── Java/<topic>/<problem>/Solution.java
+│   ├── Java/<topic>/<problem>/README.md
+│   └── trackers/
 ├── GeeksforGeeks/
+│   ├── Java/<topic>/<problem>/Solution.java
+│   └── trackers/
+├── PROBLEM_TEMPLATE.md
 └── README.md
+```
+
+## Branches
+
+- `leetcode` contains the LeetCode problems and their trackers.
+- `gfg` contains the GeeksforGeeks problems and progress list.
+- `main` is the shared starting point for both platform branches.
+
+## Progress labels
+
+A checked tracker item means the repository contains a solution file. An unchecked item means no solution is present in this repository. This label tracks repository contents and does not imply an online judge verdict.
+
+## Adding a solution
+
+Create a problem folder under the right platform and topic, add `Solution.java`, and copy the structure from [`PROBLEM_TEMPLATE.md`](./PROBLEM_TEMPLATE.md). Update the relevant tracker with a link only after the solution file is added.
