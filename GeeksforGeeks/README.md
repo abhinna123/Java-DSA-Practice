@@ -6,6 +6,7 @@ This folder contains 15 canonical GeeksforGeeks Java solution(s). Each problem h
 
 | Problem | Difficulty | Topic |
 | --- | --- | --- |
+| [Insertion in a Doubly Linked List](./Java/linked-list/insertion-in-a-doubly-linked-list/) | Easy | Linked List |
 | [1 to n Without Loop](./Java/recursion/1-to-n-without-loop/) | Basic | Recursion |
 | [Check Sorted Array](./Java/arrays/check-sorted-array/) | Easy | Arrays |
 | [Digits in N that Divide it](./Java/math/digits-in-n-that-divide-it/) | Medium | Math |

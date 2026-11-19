@@ -5,12 +5,13 @@
 | GeeksforGeeks | 1 to n Without Loop | Recursion | Basic | [`GeeksforGeeks/Java/recursion/1-to-n-without-loop`](./GeeksforGeeks/Java/recursion/1-to-n-without-loop/) |
 | GeeksforGeeks | Check Sorted Array | Arrays | Easy | [`GeeksforGeeks/Java/arrays/check-sorted-array`](./GeeksforGeeks/Java/arrays/check-sorted-array/) |
 | GeeksforGeeks | Digits in N that Divide it | Math | Medium | [`GeeksforGeeks/Java/math/digits-in-n-that-divide-it`](./GeeksforGeeks/Java/math/digits-in-n-that-divide-it/) |
+| GeeksforGeeks | Insertion in a Doubly Linked List | Linked List | Easy | [`GeeksforGeeks/Java/linked-list/insertion-in-a-doubly-linked-list`](./GeeksforGeeks/Java/linked-list/insertion-in-a-doubly-linked-list/) |
 | GeeksforGeeks | Max Sum Subarray of Size K | Sliding Window | Easy | [`GeeksforGeeks/Java/sliding-window/max-sum-subarray-of-size-k`](./GeeksforGeeks/Java/sliding-window/max-sum-subarray-of-size-k/) |
 | GeeksforGeeks | Merge Sort | Sorting | Medium | [`GeeksforGeeks/Java/sorting/merge-sort`](./GeeksforGeeks/Java/sorting/merge-sort/) |
 | GeeksforGeeks | Odd or Even | Math | Easy | [`GeeksforGeeks/Java/math/odd-or-even`](./GeeksforGeeks/Java/math/odd-or-even/) |
+| GeeksforGeeks | Reverse a String | Strings | Basic | [`GeeksforGeeks/Java/strings/reverse-a-string`](./GeeksforGeeks/Java/strings/reverse-a-string/) |
 | GeeksforGeeks | Reverse Array | Arrays | Easy | [`GeeksforGeeks/Java/arrays/reverse-array`](./GeeksforGeeks/Java/arrays/reverse-array/) |
 | GeeksforGeeks | Reverse Digits | Math | Easy | [`GeeksforGeeks/Java/math/reverse-digits`](./GeeksforGeeks/Java/math/reverse-digits/) |
-| GeeksforGeeks | Reverse a String | Strings | Basic | [`GeeksforGeeks/Java/strings/reverse-a-string`](./GeeksforGeeks/Java/strings/reverse-a-string/) |
 | GeeksforGeeks | Rotate Array by One | Arrays | Basic | [`GeeksforGeeks/Java/arrays/rotate-array-by-one`](./GeeksforGeeks/Java/arrays/rotate-array-by-one/) |
 | GeeksforGeeks | Search in Linked List | Linked List | Basic | [`GeeksforGeeks/Java/linked-list/search-in-linked-list`](./GeeksforGeeks/Java/linked-list/search-in-linked-list/) |
 | GeeksforGeeks | Second Largest | Arrays | Easy | [`GeeksforGeeks/Java/arrays/second-largest`](./GeeksforGeeks/Java/arrays/second-largest/) |
@@ -32,8 +33,8 @@
 | LeetCode | Container With Most Water | Two Pointers | Medium | [`LeetCode/Java/two-pointers/11-container-with-most-water`](./LeetCode/Java/two-pointers/11-container-with-most-water/) |
 | LeetCode | Contains Duplicate | Hashing | Easy | [`LeetCode/Java/hashing/contains-duplicate`](./LeetCode/Java/hashing/contains-duplicate/) |
 | LeetCode | Contains Duplicate II | Hashing | Easy | [`LeetCode/Java/hashing/contains-duplicate-ii`](./LeetCode/Java/hashing/contains-duplicate-ii/) |
-| LeetCode | Convert Sorted Array to Binary Search Tree | Trees | Easy | [`LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree`](./LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree/) |
 | LeetCode | Convert a Number to Hexadecimal | Math | Easy | [`LeetCode/Java/math/convert-a-number-to-hexadecimal`](./LeetCode/Java/math/convert-a-number-to-hexadecimal/) |
+| LeetCode | Convert Sorted Array to Binary Search Tree | Trees | Easy | [`LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree`](./LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree/) |
 | LeetCode | Count Primes | Math | Medium | [`LeetCode/Java/math/count-primes`](./LeetCode/Java/math/count-primes/) |
 | LeetCode | Count the Digits That Divide a Number | Math | Easy | [`LeetCode/Java/math/count-the-digits-that-divide-a-number`](./LeetCode/Java/math/count-the-digits-that-divide-a-number/) |
 | LeetCode | Defanging an IP Address | Strings | Easy | [`LeetCode/Java/strings/defanging-an-ip-address`](./LeetCode/Java/strings/defanging-an-ip-address/) |
@@ -71,8 +72,8 @@
 | LeetCode | Palindrome Number | Math | Easy | [`LeetCode/Java/math/palindrome-number`](./LeetCode/Java/math/palindrome-number/) |
 | LeetCode | Pascal's Triangle | Arrays | Easy | [`LeetCode/Java/arrays/pascals-triangle`](./LeetCode/Java/arrays/pascals-triangle/) |
 | LeetCode | Plus One | Arrays | Easy | [`LeetCode/Java/arrays/plus-one`](./LeetCode/Java/arrays/plus-one/) |
-| LeetCode | Range Sum Query - Immutable | Prefix Sum | Easy | [`LeetCode/Java/prefix-sum/range-sum-query-immutable`](./LeetCode/Java/prefix-sum/range-sum-query-immutable/) |
 | LeetCode | Range Sum of Sorted Subarray Sums | Sorting | Medium | [`LeetCode/Java/sorting/range-sum-of-sorted-subarray-sums`](./LeetCode/Java/sorting/range-sum-of-sorted-subarray-sums/) |
+| LeetCode | Range Sum Query - Immutable | Prefix Sum | Easy | [`LeetCode/Java/prefix-sum/range-sum-query-immutable`](./LeetCode/Java/prefix-sum/range-sum-query-immutable/) |
 | LeetCode | Relative Ranks | Sorting | Easy | [`LeetCode/Java/sorting/relative-ranks`](./LeetCode/Java/sorting/relative-ranks/) |
 | LeetCode | Remove Duplicates from Sorted Array | Two Pointers | Easy | [`LeetCode/Java/two-pointers/remove-duplicates-from-sorted-array`](./LeetCode/Java/two-pointers/remove-duplicates-from-sorted-array/) |
 | LeetCode | Remove Duplicates from Sorted List | Linked List | Easy | [`LeetCode/Java/linked-list/remove-duplicates-from-sorted-list`](./LeetCode/Java/linked-list/remove-duplicates-from-sorted-list/) |

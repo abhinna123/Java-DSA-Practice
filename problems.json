@@ -31,6 +31,16 @@
   },
   {
     "platform": "GeeksforGeeks",
+    "title": "Insertion in a Doubly Linked List",
+    "slug": "insertion-in-a-doubly-linked-list",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "GeeksforGeeks/Java/linked-list/insertion-in-a-doubly-linked-list",
+    "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "platform": "GeeksforGeeks",
     "title": "Max Sum Subarray of Size K",
     "slug": "max-sum-subarray-of-size-k",
     "id": null,
@@ -61,6 +71,16 @@
   },
   {
     "platform": "GeeksforGeeks",
+    "title": "Reverse a String",
+    "slug": "reverse-a-string",
+    "id": null,
+    "difficulty": "Basic",
+    "topic": "strings",
+    "path": "GeeksforGeeks/Java/strings/reverse-a-string",
+    "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1"
+  },
+  {
+    "platform": "GeeksforGeeks",
     "title": "Reverse Array",
     "slug": "reverse-array",
     "id": null,
@@ -78,16 +98,6 @@
     "topic": "math",
     "path": "GeeksforGeeks/Java/math/reverse-digits",
     "url": "https://www.geeksforgeeks.org/problems/reverse-digit0316/1"
-  },
-  {
-    "platform": "GeeksforGeeks",
-    "title": "Reverse a String",
-    "slug": "reverse-a-string",
-    "id": null,
-    "difficulty": "Basic",
-    "topic": "strings",
-    "path": "GeeksforGeeks/Java/strings/reverse-a-string",
-    "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1"
   },
   {
     "platform": "GeeksforGeeks",
@@ -301,16 +311,6 @@
   },
   {
     "platform": "LeetCode",
-    "title": "Convert Sorted Array to Binary Search Tree",
-    "slug": "convert-sorted-array-to-binary-search-tree",
-    "id": null,
-    "difficulty": "Easy",
-    "topic": "trees",
-    "path": "LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree",
-    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
-  },
-  {
-    "platform": "LeetCode",
     "title": "Convert a Number to Hexadecimal",
     "slug": "convert-a-number-to-hexadecimal",
     "id": null,
@@ -318,6 +318,16 @@
     "topic": "math",
     "path": "LeetCode/Java/math/convert-a-number-to-hexadecimal",
     "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "trees",
+    "path": "LeetCode/Java/trees/convert-sorted-array-to-binary-search-tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
   },
   {
     "platform": "LeetCode",
@@ -691,16 +701,6 @@
   },
   {
     "platform": "LeetCode",
-    "title": "Range Sum Query - Immutable",
-    "slug": "range-sum-query-immutable",
-    "id": null,
-    "difficulty": "Easy",
-    "topic": "prefix-sum",
-    "path": "LeetCode/Java/prefix-sum/range-sum-query-immutable",
-    "url": "https://leetcode.com/problems/range-sum-query-immutable/"
-  },
-  {
-    "platform": "LeetCode",
     "title": "Range Sum of Sorted Subarray Sums",
     "slug": "range-sum-of-sorted-subarray-sums",
     "id": null,
@@ -708,6 +708,16 @@
     "topic": "sorting",
     "path": "LeetCode/Java/sorting/range-sum-of-sorted-subarray-sums",
     "url": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "prefix-sum",
+    "path": "LeetCode/Java/prefix-sum/range-sum-query-immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable/"
   },
   {
     "platform": "LeetCode",
