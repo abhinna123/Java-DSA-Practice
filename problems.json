@@ -21,6 +21,16 @@
   },
   {
     "platform": "GeeksforGeeks",
+    "title": "Delete in a Doubly Linked List",
+    "slug": "delete-in-a-doubly-linked-list",
+    "id": null,
+    "difficulty": "Easy",
+    "topic": "linked-list",
+    "path": "GeeksforGeeks/Java/linked-list/delete-in-a-doubly-linked-list",
+    "url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "platform": "GeeksforGeeks",
     "title": "Digits in N that Divide it",
     "slug": "digits-in-n-that-divide-it",
     "id": null,

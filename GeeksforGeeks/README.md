@@ -1,15 +1,16 @@
 # GeeksforGeeks — Java Solutions
 
-This folder contains 15 canonical GeeksforGeeks Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
+This folder contains 17 canonical GeeksforGeeks Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
 
 ## Solved problems
 
 | Problem | Difficulty | Topic |
 | --- | --- | --- |
-| [Insertion in a Doubly Linked List](./Java/linked-list/insertion-in-a-doubly-linked-list/) | Easy | Linked List |
 | [1 to n Without Loop](./Java/recursion/1-to-n-without-loop/) | Basic | Recursion |
 | [Check Sorted Array](./Java/arrays/check-sorted-array/) | Easy | Arrays |
+| [Delete in a Doubly Linked List](./Java/linked-list/delete-in-a-doubly-linked-list/) | Easy | Linked List |
 | [Digits in N that Divide it](./Java/math/digits-in-n-that-divide-it/) | Medium | Math |
+| [Insertion in a Doubly Linked List](./Java/linked-list/insertion-in-a-doubly-linked-list/) | Easy | Linked List |
 | [Max Sum Subarray of Size K](./Java/sliding-window/max-sum-subarray-of-size-k/) | Easy | Sliding Window |
 | [Merge Sort](./Java/sorting/merge-sort/) | Medium | Sorting |
 | [Odd or Even](./Java/math/odd-or-even/) | Easy | Math |

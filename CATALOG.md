@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- |
 | GeeksforGeeks | 1 to n Without Loop | Recursion | Basic | [`GeeksforGeeks/Java/recursion/1-to-n-without-loop`](./GeeksforGeeks/Java/recursion/1-to-n-without-loop/) |
 | GeeksforGeeks | Check Sorted Array | Arrays | Easy | [`GeeksforGeeks/Java/arrays/check-sorted-array`](./GeeksforGeeks/Java/arrays/check-sorted-array/) |
+| GeeksforGeeks | Delete in a Doubly Linked List | Linked List | Easy | [`GeeksforGeeks/Java/linked-list/delete-in-a-doubly-linked-list`](./GeeksforGeeks/Java/linked-list/delete-in-a-doubly-linked-list/) |
 | GeeksforGeeks | Digits in N that Divide it | Math | Medium | [`GeeksforGeeks/Java/math/digits-in-n-that-divide-it`](./GeeksforGeeks/Java/math/digits-in-n-that-divide-it/) |
 | GeeksforGeeks | Insertion in a Doubly Linked List | Linked List | Easy | [`GeeksforGeeks/Java/linked-list/insertion-in-a-doubly-linked-list`](./GeeksforGeeks/Java/linked-list/insertion-in-a-doubly-linked-list/) |
 | GeeksforGeeks | Max Sum Subarray of Size K | Sliding Window | Easy | [`GeeksforGeeks/Java/sliding-window/max-sum-subarray-of-size-k`](./GeeksforGeeks/Java/sliding-window/max-sum-subarray-of-size-k/) |
