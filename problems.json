@@ -41,6 +41,16 @@
   },
   {
     "platform": "GeeksforGeeks",
+    "title": "Implement Stack using Array",
+    "slug": "implement-stack-using-array",
+    "id": null,
+    "difficulty": "Basic",
+    "topic": "stack",
+    "path": "GeeksforGeeks/Java/stack/implement-stack-using-array",
+    "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
+  },
+  {
+    "platform": "GeeksforGeeks",
     "title": "Insertion in a Doubly Linked List",
     "slug": "insertion-in-a-doubly-linked-list",
     "id": null,
