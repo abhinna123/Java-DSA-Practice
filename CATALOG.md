@@ -67,6 +67,7 @@
 | LeetCode | Merge Two Sorted Lists | Linked List | Easy | [`LeetCode/Java/linked-list/merge-two-sorted-lists`](./LeetCode/Java/linked-list/merge-two-sorted-lists/) |
 | LeetCode | Middle of the Linked List | Linked List | Easy | [`LeetCode/Java/linked-list/876-middle-of-the-linked-list`](./LeetCode/Java/linked-list/876-middle-of-the-linked-list/) |
 | LeetCode | Missing Number | Arrays | Easy | [`LeetCode/Java/arrays/missing-number`](./LeetCode/Java/arrays/missing-number/) |
+| LeetCode | Min Stack | Stack | Medium | [`LeetCode/Java/stack/155-min-stack`](./LeetCode/Java/stack/155-min-stack/) |
 | LeetCode | Move Zeroes | Two Pointers | Easy | [`LeetCode/Java/two-pointers/move-zeroes`](./LeetCode/Java/two-pointers/move-zeroes/) |
 | LeetCode | Number of 1 Bits | Bit Manipulation | Easy | [`LeetCode/Java/bit-manipulation/number-of-1-bits`](./LeetCode/Java/bit-manipulation/number-of-1-bits/) |
 | LeetCode | Number of Good Pairs | Arrays | Easy | [`LeetCode/Java/arrays/number-of-good-pairs`](./LeetCode/Java/arrays/number-of-good-pairs/) |

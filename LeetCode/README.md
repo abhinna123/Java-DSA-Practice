@@ -1,6 +1,6 @@
 # LeetCode — Java Solutions
 
-This folder contains 85 canonical Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
+This folder contains 86 canonical Java solution(s). Each problem has the same documentation layout and one `Solution.java` file.
 
 ## Solved problems
 
@@ -21,8 +21,8 @@ This folder contains 85 canonical Java solution(s). Each problem has the same do
 | [Container With Most Water](./Java/two-pointers/11-container-with-most-water/) | Medium | Two Pointers |
 | [Contains Duplicate](./Java/hashing/contains-duplicate/) | Easy | Hashing |
 | [Contains Duplicate II](./Java/hashing/contains-duplicate-ii/) | Easy | Hashing |
-| [Convert Sorted Array to Binary Search Tree](./Java/trees/convert-sorted-array-to-binary-search-tree/) | Easy | Trees |
 | [Convert a Number to Hexadecimal](./Java/math/convert-a-number-to-hexadecimal/) | Easy | Math |
+| [Convert Sorted Array to Binary Search Tree](./Java/trees/convert-sorted-array-to-binary-search-tree/) | Easy | Trees |
 | [Count Primes](./Java/math/count-primes/) | Medium | Math |
 | [Count the Digits That Divide a Number](./Java/math/count-the-digits-that-divide-a-number/) | Easy | Math |
 | [Defanging an IP Address](./Java/strings/defanging-an-ip-address/) | Easy | Strings |
@@ -52,6 +52,7 @@ This folder contains 85 canonical Java solution(s). Each problem has the same do
 | [Merge Sorted Array](./Java/two-pointers/merge-sorted-array/) | Easy | Two Pointers |
 | [Merge Two Sorted Lists](./Java/linked-list/merge-two-sorted-lists/) | Easy | Linked List |
 | [Middle of the Linked List](./Java/linked-list/876-middle-of-the-linked-list/) | Easy | Linked List |
+| [Min Stack](./Java/stack/155-min-stack/) | Medium | Stack |
 | [Missing Number](./Java/arrays/missing-number/) | Easy | Arrays |
 | [Move Zeroes](./Java/two-pointers/move-zeroes/) | Easy | Two Pointers |
 | [Number of 1 Bits](./Java/bit-manipulation/number-of-1-bits/) | Easy | Bit Manipulation |
@@ -60,8 +61,8 @@ This folder contains 85 canonical Java solution(s). Each problem has the same do
 | [Palindrome Number](./Java/math/palindrome-number/) | Easy | Math |
 | [Pascal's Triangle](./Java/arrays/pascals-triangle/) | Easy | Arrays |
 | [Plus One](./Java/arrays/plus-one/) | Easy | Arrays |
-| [Range Sum Query - Immutable](./Java/prefix-sum/range-sum-query-immutable/) | Easy | Prefix Sum |
 | [Range Sum of Sorted Subarray Sums](./Java/sorting/range-sum-of-sorted-subarray-sums/) | Medium | Sorting |
+| [Range Sum Query - Immutable](./Java/prefix-sum/range-sum-query-immutable/) | Easy | Prefix Sum |
 | [Relative Ranks](./Java/sorting/relative-ranks/) | Easy | Sorting |
 | [Remove Duplicates from Sorted Array](./Java/two-pointers/remove-duplicates-from-sorted-array/) | Easy | Two Pointers |
 | [Remove Duplicates from Sorted List](./Java/linked-list/remove-duplicates-from-sorted-list/) | Easy | Linked List |

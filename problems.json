@@ -641,6 +641,16 @@
   },
   {
     "platform": "LeetCode",
+    "title": "Min Stack",
+    "slug": "155-min-stack",
+    "id": "155",
+    "difficulty": "Medium",
+    "topic": "stack",
+    "path": "LeetCode/Java/stack/155-min-stack",
+    "url": "https://leetcode.com/problems/min-stack/"
+  },
+  {
+    "platform": "LeetCode",
     "title": "Missing Number",
     "slug": "missing-number",
     "id": null,
